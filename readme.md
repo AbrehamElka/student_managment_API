@@ -75,7 +75,7 @@ This is a REST API for managing student data. It allows you to create, update, d
 
 ### Update Student
 
-```
+```json
 {
     "first_name": "Jane",
     "last_name": "Doe",
