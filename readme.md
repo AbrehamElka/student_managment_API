@@ -71,3 +71,16 @@ This is a REST API for managing student data. It allows you to create, update, d
     "gpa": 3.5,
     "is_graduated": false
 }
+```
+
+### Update Student
+
+```
+{
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "age": 22,
+    "gpa": 3.9,
+    "is_graduated": true
+}
+```
